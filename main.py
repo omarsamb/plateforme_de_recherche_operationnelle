@@ -1,8 +1,5 @@
 # """ Projet de Recherche Operationnelle """
-# """ Travail Réaliser par :
-# """ Oumar SAMB
-# """ Pape Magatte SYLLA
-# """ Yaye khady SOW
+
 
 
 # en premier lieu nous allons importer les librairies
